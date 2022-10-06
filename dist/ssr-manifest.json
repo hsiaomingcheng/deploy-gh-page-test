@@ -1,0 +1,179 @@
+{
+  "vite/modulepreload-polyfill": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/@vueuse/shared/index.mjs": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/@vueuse/head/dist/index.mjs": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.be31ffcd.mjs": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.c3db3195.mjs": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/vite-ssg/dist/client/single-page.mjs": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "src/style.css": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "../../../../vite.svg": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "src/assets/vue.svg": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/bind.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/utils.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/core/AxiosError.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/form-data/lib/browser.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/toFormData.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/AxiosURLSearchParams.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/buildURL.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/core/InterceptorManager.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/defaults/transitional.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/platform/browser/classes/URLSearchParams.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/platform/browser/classes/FormData.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/platform/browser/index.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/toURLEncodedForm.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/formDataToJSON.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/core/settle.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/cookies.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/isAbsoluteURL.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/combineURLs.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/core/buildFullPath.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/isURLSameOrigin.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/cancel/CanceledError.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/parseProtocol.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/parseHeaders.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/core/AxiosHeaders.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/speedometer.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/adapters/xhr.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/adapters/index.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/defaults/index.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/core/transformData.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/cancel/isCancel.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/core/dispatchRequest.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/core/mergeConfig.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/env/data.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/validator.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/core/Axios.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/cancel/CancelToken.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/spread.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/helpers/isAxiosError.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "node_modules/axios/lib/axios.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "src/components/HelloWorld.vue?vue&type=style&index=0&scoped=a1de4649&lang.css": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "\u0000plugin-vue:export-helper": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "src/components/HelloWorld.vue": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "src/App.vue?vue&type=style&index=0&scoped=046190db&lang.css": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "src/App.vue": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "src/main.js": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ],
+  "index.html": [
+    "/deploy-gh-page-test/assets/vue.5532db34.svg"
+  ]
+}

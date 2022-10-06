@@ -1,7 +1,20 @@
 <script setup>
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
-import HelloWorld from './components/HelloWorld.vue'
+  import axios from 'axios'
+  import HelloWorld from './components/HelloWorld.vue'
+
+  const handleSendSlackMsg = () => {
+
+    const slackPath = 'https://hooks.slack.com/services/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'
+
+    const payload = JSON.stringify({
+      channel: '#test',
+      username: 'webhookbot',
+      text: 'This is posted to #test and comes from a bot named webhookbot.',
+      icon_emoji: ':ghost:',
+    })
+
+    axios.post(slackPath, payload)
+  }
 </script>
 
 <template>
@@ -13,6 +26,9 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
+
+  <button @click="handleSendSlackMsg">點我發送訊息給Slack</button>
+
   <HelloWorld msg="Vite + Vue" />
 </template>
 

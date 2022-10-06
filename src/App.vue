@@ -4,7 +4,7 @@
 
   const handleSendSlackMsg = () => {
 
-    const slackPath = 'https://hooks.slack.com/services/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'
+    const slackPath = 'https://hooks.slack.com/services/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'
 
     const payload = JSON.stringify({
       channel: '#test',
